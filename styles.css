@@ -1,0 +1,39 @@
+body{
+  background-image: url("http://www.sclance.com/backgrounds/website-backgrounds-patterns/website-backgrounds-patterns_2362280.jpg")
+}
+h1{
+  font-family: "Cutive";
+  color: #FF697A;
+}
+h2{
+  font-family: "Quicksand";
+  color: #01697A
+}
+h3{
+  font-family: "Cutive";
+  color: #01697A
+}
+p1{
+  font-family: "Quicksand";
+  color: #012766;
+  display: block;
+
+}
+p2{
+  font-family: "Quicksand";
+  color: #012766;
+  display: block;
+  padding-left: 100px;
+}
+.name{
+  display: inline-block;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.round{
+  border-radius: 50%;
+}
+img{
+  display: inline-block;
+  padding-right: 50px;
+}
